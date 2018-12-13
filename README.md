@@ -8,16 +8,24 @@ Pattern Matching
 ----------------
 
 Rabin Karp
+
 Knuth–Morris–Pratt
+
 Boyer-Moore
+
 Aho-Corasick
 
 Similarity
 ----------
 
 Levenshtein
+
 Damereau-Levenshtein
+
 Jaro
+
 Jaro-Winkler
+
 Wusch-Needleman
+
 Hirschburg
